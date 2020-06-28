@@ -38,7 +38,9 @@
 
 ## ummmmmmm
 Maybe I'm not going to fix the issues mentioned above due to my laziness and ignorance...I didn't do the trackpad which needs DSDT...
-May have some mistakes because I'm not using macOS these days 'cause it's not very VOCALOID friendly...But this EFI should work well!
+
+May have some mistakes because I'm not using macOS these days 'cause it's not very VOCALOID friendly...
+But this EFI should work well!
 And sorry for my poor English...I havn't been doing this for ages.
 
 Any other things that I can do, just leave a message:)
