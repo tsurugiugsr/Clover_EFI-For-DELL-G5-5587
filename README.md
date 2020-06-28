@@ -2,6 +2,8 @@
 
 ### 感谢[Len](http://i.pcbeta.com/space-uid-4532202.html)和[黑果小兵](https://daliansky.net)
 
+## [ENGLISH--HERE](https://github.com/Sosueyakiko/Clover_EFI-For-DELL-G5-5587/blob/master/README-ENG.md)
+
 ## 机型配置
 * CPU：Intel i5-8300H
 * 显卡：Intel UHD630
