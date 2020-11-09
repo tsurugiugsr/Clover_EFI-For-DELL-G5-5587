@@ -1,3 +1,11 @@
+#***重要***
+
+#网站[“黑苹果资源网”(http://imacosx.com/)](http://imacosx.com/efi/1359.html)盗用此Repo内容并以收费形式发布，未经本人许可。
+#本Repo内容借鉴自[Len](http://i.pcbeta.com/space-uid-4532202.html)和[黑果小兵](https://daliansky.net)的成果，由本人反复调试得来。本人从未企图使用借由此Repo进行收费；[Len](http://i.pcbeta.com/space-uid-4532202.html)和[黑果小兵](https://daliansky.net)的镜像/EFI文档均为免费配布。
+#网站[“黑苹果资源网”(http://imacosx.com/)](http://imacosx.com/efi/1359.html)私自盗用并施用于商业用途，行为可耻，在此强烈谴责！
+
+
+
 # Clover_EFI-For-DELL-G5-5587-适用于戴尔G5 5587的Hackintosh EFI
 
 
