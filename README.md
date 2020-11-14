@@ -5,6 +5,7 @@
 * 重做核芯显卡驱动，正常开启H.264以及HEVC加速
 
 
+
 #### 补充说明
 
 如果遇到睡眠重新唤醒后：
@@ -13,14 +14,20 @@
 2. 扬声器无声/耳机无声/声音设备错误/耳机出现严重电流杂音
       仅在运行Studio One过程中出现过该情况。可尝试拔下耳机，睡眠，再次唤醒。
       
+      
+      
+      
 
 # Clover_EFI-For-DELL-G5-5587-适用于戴尔G5 5587的Hackintosh EFI
+
 
 
 ### 感谢[Len](http://i.pcbeta.com/space-uid-4532202.html)和[黑果小兵](https://daliansky.net)
 
 
+
 ## [ENGLISH--HERE](https://github.com/Sosueyakiko/Clover_EFI-For-DELL-G5-5587/blob/master/README-ENG.md)
+
 
 
 ## 机型配置
@@ -32,8 +39,11 @@
 
 ----
 
+
+
 ## 说明
 #### EFI文件夹基于[Len's Dmg](http://bbs.pcbeta.com/viewthread-1858946-1-1.html)，使用“八代笔记本UHD630”配置文件修改而成。可直接引导mac OS 10.15.7，大苏儿没有测试。
+
 
 
 ### 声卡
@@ -42,10 +52,12 @@
 3. 已知小问题：开机时接入耳机会导致系统识别不到内建扬声器（耳机孔正常）。开机之前记得拔下来就好了。
    
    
+   
 ### 无线网卡
 1. 感谢[黑果小兵的教程](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)。
 2. EFI文件夹内已包含蓝牙模块驱动以及WiFi设置，相同网卡的小伙伴可以直接使用。如果遇到Windows蓝屏可考虑屏蔽针脚（只屏蔽教程中说的“后2”即可）。
 3. 隔空投送正常。随航接线正常，无线模式iPad会黑屏，不知道是不是个例。接力未测试，理论正常。
+
 
 
 ### 一些其他的说明&关于这个EFI怎么来的
@@ -57,7 +69,10 @@
 6. 明明是希捷机械硬盘但是希捷给的读写NTFS的玩意儿不好用啊为什么嗷
 
 
+
 ----
+
+
 
 
 ## 写在最后
