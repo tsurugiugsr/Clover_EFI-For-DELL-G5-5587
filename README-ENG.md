@@ -1,3 +1,10 @@
+##Update 2020.11.14
+* Sleep function repaired.
+* Renewed iGPU driver to properly enable h.264 and HEVC.
+
+
+
+
 # Clover_EFI-For-DELL-G5-5587
 
 
@@ -14,7 +21,7 @@
 ----
 
 ## EFI Details
-#### The EFI folder is based on [Len's Dmg](http://bbs.pcbeta.com/viewthread-1858946-1-1.html)，made “八代笔记本UHD630” adapted. Available for mac OS 10.15.5，Big Sur not tested.
+#### The EFI folder is based on [Len's Dmg](http://bbs.pcbeta.com/viewthread-1858946-1-1.html)，made “八代笔记本UHD630” adapted. Available for mac OS 10.15.7，Big Sur not tested.
     
 ### Audio
 1. No VoodooHDA (Not compatible with audio plugs).
