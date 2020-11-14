@@ -31,7 +31,7 @@
 2. If it Stucks at ApplePS2TrakPad, put SSDT-EC.aml into /ACPI/Patched/ and don't blame the trackpad.
 3. If you use Clover Configurator to make macOS show Memory Info in system, you may lose audio driver and I don't know why...
 4. Plus also the TrackPad is "I2C", not "PS2"(I didn't make the I2C driver).
-5. Sleep, and wake up, and the system reboots.
+5. （Solved）Sleep, and wake up, and the system reboots.
 6. why can't i use ntfs for mac from seagate while the hdd IS from seagate
 
 ----
