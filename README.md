@@ -1,5 +1,6 @@
 ### ~~说明：本EFI不支持BigSur，因为我个人不喜欢所以未来很长一段时间内都不会支持，望谅解。~~
 ### 我还是太低估自己了  未来将会专心调试适用于Big Sur的OpenCore。Catalina版本引导可以直接使用Clover，但是由于时代更替（bushi）并且本身不完美，我将不再对它修改。
+#### [OpenCore For BigSur](https://github.com/Sosueyakiko/OpenCore_EFI-For-DELL-G5-5587)
 
 ## 2020.11.14更新
 ### 除了触摸板高级功能不全以外基本可以满足使用了
