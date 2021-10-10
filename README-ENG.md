@@ -1,3 +1,5 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 ##Update 2020.11.14
 * Sleep function repaired.
 * Renewed iGPU driver to properly enable h.264 and HEVC.
