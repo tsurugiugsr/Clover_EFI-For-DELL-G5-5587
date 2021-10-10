@@ -1,4 +1,8 @@
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+
+
 ### 未来将会专心调试适用于Big Sur的OpenCore。Catalina版本引导可以直接使用Clover，但是由于时代更替（bushi）并且本身不完美，我将不再对它修改。
 #### [OpenCore For BigSur](https://github.com/Sosueyakiko/OpenCore_EFI-For-DELL-G5-5587)
 
